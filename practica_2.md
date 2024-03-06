@@ -5,6 +5,7 @@
 Determinar si un número es par o no
 
 Entrada: `numero`
+
 Salida: `El número es par` | `El número es impar`
 
 ### Ejercicio 2
@@ -12,6 +13,7 @@ Salida: `El número es par` | `El número es impar`
 Verificar si un número es positivo, negativo o cero
 
 Entrada: `numero`
+
 Salida: `El número es positivo` | `El número es negativo` | `El número es cero`
 
 ### Ejercicio 3
@@ -19,6 +21,7 @@ Salida: `El número es positivo` | `El número es negativo` | `El número es cer
 Verificar si un año es bisiesto o no
 
 Entrada: `año`
+
 Salida: `El año es bisiesto`  `El año no es bisiesto`
 
 
